@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'React';
 import CategoryList from './components/CategoryList';
 import ProductList from './components/ProductList';
 import ProductDetailModal from './components/ProductDetailModal';
